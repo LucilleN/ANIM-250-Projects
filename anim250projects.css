@@ -33,3 +33,7 @@ p {
   margin-bottom: 15px;
   margin-top: 5px;
 }
+
+#flashcontent {
+  width: 100%;
+}
