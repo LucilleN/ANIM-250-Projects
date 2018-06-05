@@ -1,5 +1,5 @@
 h1 {
-  font: 60px "Optima";
+  font: 60px "Century Gothic";
   color: white;
   text-align: center;
   background-color: DarkSlateBlue;
@@ -9,7 +9,7 @@ h1 {
 }
 
 h2 {
-  font: 20px "Optima";
+  font: 20px "Century Gothic";
   color: white;
   text-align: center;
   background-color: SlateBlue;
@@ -19,7 +19,7 @@ h2 {
 }
 
 h3 {
-  font: 30px "Optima";
+  font: 30px "Century Gothic";
   color: SlateBlue;
   text-align: center;
   background-color: PowderBlue;
@@ -29,7 +29,7 @@ h3 {
 }
 
 p {
-  font: 20px "Optima";
+  font: 20px "Century Gothic";
   margin-bottom: 15px;
   margin-top: 5px;
 }
